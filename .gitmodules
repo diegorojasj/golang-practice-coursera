@@ -1,3 +1,6 @@
 [submodule "golang-bubble-sort-program"]
 	path = golang-bubble-sort-program
 	url = https://github.com/diegorojasj/golang-bubble-sort-program.git
+[submodule "golang_gen_displace"]
+	path = golang_gen_displace
+	url = https://github.com/diegorojasj/golang_gen_displace.git
